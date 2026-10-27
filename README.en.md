@@ -8,4 +8,3 @@ Inspired by [Dora A Rabbit / 哆啦A兔](https://github.com/mylea1/star-rabbit-p
 
 Install: extract [the native ZIP](codex/feidudu-strawhat-mac.zip) into `~/.codex/pets/`, or run `python3 scripts/install_pet.py`, then refresh and select the pet in Codex settings. To import with the Pets skill, use [spritesheet.png](codex/feidudu-strawhat-mac/spritesheet.png). The client decides when to display native states and gaze poses; the web page is a simulation.
 
-For GitHub Pages, upload this directory to a repository, then choose Settings → Pages → Deploy from a branch → your default branch → `/ (root)`.

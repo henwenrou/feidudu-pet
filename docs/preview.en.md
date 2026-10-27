@@ -6,4 +6,3 @@ Open `docs/index.html` directly, or run `python3 -m http.server 8000` from the p
 
 The page provides a 16-direction pointer-gaze demonstration, an interactive action stage, eleven GIFs and frame-by-frame storyboards, and a silent MP4 compilation. Gaze tracking is a website feature and does not establish native client behavior. Nine actions are native; celebration (a draft) and sleep are website extras and do not connect to native events. The site simulates task states.
 
-To publish on GitHub Pages, upload the project contents to the repository root and select Settings → Pages → Deploy from a branch → your default branch → **`/ (root)`**. The root `index.html` redirects to the showcase; assets must be published from the root.

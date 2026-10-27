@@ -1,19 +1,15 @@
 {
-  ".nojekyll": {
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "bytes": 0
-  },
   "ASSETS.md": {
     "sha256": "c808b242ff10f56b9357dc70be5d9b287c0cf156a897e30daf654309f25f0fec",
     "bytes": 1088
   },
   "README.en.md": {
-    "sha256": "f3a45da289b48d6765a916eac7a9f891be0bd9da240a46192a4654bebac474ff",
-    "bytes": 1205
+    "sha256": "9cb595b1de3173cefcbfd8a162cf3c09b8b7975f620ad3f7af933aae3a666fa8",
+    "bytes": 1052
   },
   "README.md": {
-    "sha256": "7f92e73de509575a6e563658f25dc06f73a69e183f9a7d3eb5b2e336197930e3",
-    "bytes": 3842
+    "sha256": "1e7b6f555349e809e0027a678aad743ffcca858211f96c682e57b44575c67989",
+    "bytes": 3534
   },
   "assets/celebrate-draft.gif": {
     "sha256": "6dfbf6468104d1ec2de57a8b2a2080686fdddc210dfb15ebaf7443fafd35bbdb",
@@ -255,10 +251,6 @@
     "sha256": "3e49825a5f14b299938a7bbce148d05ebd776106175023af713a93133766bce6",
     "bytes": 2477452
   },
-  "docs/.nojekyll": {
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "bytes": 0
-  },
   "docs/app.js": {
     "sha256": "11451257feb408a495365c68bd3758e9f7ef638fe66ed441887ce5161e5ec4c3",
     "bytes": 6791
@@ -272,24 +264,24 @@
     "bytes": 2485809
   },
   "docs/guide.en.md": {
-    "sha256": "1f99738cc02b5fb06f8b774d4f756238269ecc103f9dee4523e9d4caf4af606a",
-    "bytes": 874
+    "sha256": "c8f750afa7ac6e8c5d81bd8d4801fbdc4fd27822a1847bd42312ec1521ae014a",
+    "bytes": 698
   },
   "docs/guide.zh.md": {
-    "sha256": "084a092747d3c627e884511367d0f914e5c68aee9c55b4340505451682956386",
-    "bytes": 1081
+    "sha256": "f9325002e973212e175a2746e84a636a73873bcf842ccd8a72ee0ce96c89c006",
+    "bytes": 840
   },
   "docs/index.html": {
     "sha256": "21259ae601e3bcbd9ab4bd60a7a52a8dca4eebd5bc1d323e902532fb29f63e84",
     "bytes": 9115
   },
   "docs/preview.en.md": {
-    "sha256": "7771954754ca71d05b7d379bba099e83509a5855b6437367561835edac127156",
-    "bytes": 977
+    "sha256": "838857d599f08199901b5e290fff03a38749af8ba9079d10bb32f5ac576365f7",
+    "bytes": 710
   },
   "docs/preview.zh.md": {
-    "sha256": "f6812742808f2c4114ad1241162af0d2d13e7969a54a5a881220de202aa9d4d6",
-    "bytes": 1149
+    "sha256": "8b1e1ba6fef73a50d6e71be810a0bca51f93087f447c14cada9e2d1626693dad",
+    "bytes": 833
   },
   "docs/style.css": {
     "sha256": "61939631421d38d60591d98a91c2b6a8607c20e22fac3dc1cb2909893a30c245",

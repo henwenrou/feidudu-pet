@@ -8,10 +8,7 @@
 
 ## 动作预览
 
-查看[网页预览说明](preview.zh.md)，了解本地打开、交互和 GitHub Pages 发布。
+查看[网页预览说明](preview.zh.md)，了解如何在本地打开和使用交互预览。
 
 [展示页](index.html)提供 11 组 GIF、逐帧分镜与汇总 MP4。9 组是原生状态；庆祝和睡眠是网页扩展，庆祝仍为草稿，不会自动接入客户端任务完成或闲置事件。顶部可以体验 16 方向眼神跟随，客户端的实际显示由客户端控制。
 
-## 发布 Pages
-
-把项目内容上传到仓库根目录，在 GitHub Settings → Pages 中选择 Deploy from a branch、默认分支及 `/ (root)`；等待 GitHub 提供网址。项目目录中的 README 和 ASSETS 提供完整索引。

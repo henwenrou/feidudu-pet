@@ -78,7 +78,7 @@
 
 ## 网页预览
 
-详细使用方法和 GitHub Pages 发布步骤见[网页预览说明](docs/preview.zh.md)。
+详细使用方法见[网页预览说明](docs/preview.zh.md)。
 
 ## 视频与交互
 
@@ -90,9 +90,6 @@
 - 使用 Pets 技能导入时提供 [spritesheet.png](codex/feidudu-strawhat-mac/spritesheet.png)；该图为透明 PNG，1536 × 2288，含 9 个原生动作及 16 个视线方向。GIF 和 MP4 是预览素材。
 - 桌面客户端负责原生状态及视线的显示时机。网页是模拟展示，不读取实际任务。
 
-## 发布 GitHub Pages
-
-将本目录内的所有文件上传到 GitHub 仓库根目录；在 **Settings → Pages → Deploy from a branch** 中选择 `main` 分支、`/ (root)`，保存并等待 GitHub 给出网址。若默认分支名称不同，请选择实际默认分支。
 
 ## 目录
 

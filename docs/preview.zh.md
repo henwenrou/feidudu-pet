@@ -13,6 +13,3 @@
 - 展开动作分镜可逐帧查看并下载 PNG、GIF；页面还可播放和下载无声的 11 组动作汇总 MP4。
 - 网页只模拟状态，不读取实际任务。庆祝和睡眠没有接入原生任务完成或闲置事件。
 
-## GitHub Pages
-
-上传项目根目录的内容到 GitHub 仓库根目录。在 **Settings → Pages → Deploy from a branch** 中选择默认分支和 **`/ (root)`**，保存并等待 GitHub 给出网址。根目录 `index.html` 会进入 `docs/index.html`。请选择 `/ (root)`，因为素材位于 `assets/`。
