@@ -4,12 +4,12 @@
     "bytes": 1088
   },
   "README.en.md": {
-    "sha256": "9cb595b1de3173cefcbfd8a162cf3c09b8b7975f620ad3f7af933aae3a666fa8",
-    "bytes": 1052
+    "sha256": "54d1ec167a2b30271131f506915204c4c794fadf3da5f3c7e381fc38965e0a57",
+    "bytes": 1075
   },
   "README.md": {
-    "sha256": "1e7b6f555349e809e0027a678aad743ffcca858211f96c682e57b44575c67989",
-    "bytes": 3534
+    "sha256": "c3deec28f6b0aa4d3ee3a34956ab8961d1fdd86693cddaa16fb779460079965b",
+    "bytes": 3463
   },
   "assets/celebrate-draft.gif": {
     "sha256": "6dfbf6468104d1ec2de57a8b2a2080686fdddc210dfb15ebaf7443fafd35bbdb",
@@ -264,12 +264,12 @@
     "bytes": 2485809
   },
   "docs/guide.en.md": {
-    "sha256": "c8f750afa7ac6e8c5d81bd8d4801fbdc4fd27822a1847bd42312ec1521ae014a",
-    "bytes": 698
+    "sha256": "b87bc0bfb68b924b1232e7f53fd92e52888b071ba45842447199bc00d8136db7",
+    "bytes": 708
   },
   "docs/guide.zh.md": {
-    "sha256": "f9325002e973212e175a2746e84a636a73873bcf842ccd8a72ee0ce96c89c006",
-    "bytes": 840
+    "sha256": "c4b1088accd92aaf20872d5fcacba8443973d82066134ab2a7d2919f1afccbfe",
+    "bytes": 851
   },
   "docs/index.html": {
     "sha256": "21259ae601e3bcbd9ab4bd60a7a52a8dca4eebd5bc1d323e902532fb29f63e84",

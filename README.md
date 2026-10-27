@@ -2,7 +2,7 @@
 
 [English](README.en.md) · [使用指南](docs/guide.zh.md) · [资产说明](ASSETS.md) · [网页预览说明](docs/preview.zh.md) · [交互展示](docs/index.html)
 
-戴草帽、抱电脑、尾巴燃烧的袋鼠宠物。项目包含 **9 组原生动作、16 个视线方向**，以及 **庆祝和睡眠 2 组扩展展示**。庆祝仍为草稿；扩展动作仅用于网页演示，没有接入原生任务事件。
+这是一个 **Codex Pet**：戴草帽、抱电脑、尾巴燃烧的袋鼠宠物。项目包含 **9 组原生动作、16 个视线方向**，以及 **庆祝和睡眠 2 组扩展展示**。
 
 受到[哆啦A兔](https://github.com/mylea1/star-rabbit-pet)的启发。
 
@@ -64,7 +64,7 @@
 
 [GIF](assets/review.gif) · [分镜 PNG](assets/storyboards/review.png)
 
-### 完成庆祝 · 扩展 · 草稿
+### 完成庆祝 · 扩展
 
 ![完成庆祝](assets/celebrate-draft.gif)
 

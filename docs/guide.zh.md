@@ -1,4 +1,4 @@
-# 肥嘟嘟使用指南
+# 肥嘟嘟 Codex Pet 使用指南
 
 [English](guide.en.md) · [展示页](index.html)
 

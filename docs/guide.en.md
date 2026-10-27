@@ -1,4 +1,4 @@
-# Feidudu user guide
+# Feidudu Codex Pet user guide
 
 [中文](guide.zh.md) · [Showcase](index.html)
 

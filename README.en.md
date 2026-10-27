@@ -2,7 +2,7 @@
 
 [中文](README.md) · [English guide](docs/guide.en.md) · [Web preview guide](docs/preview.en.md) · [Interactive showcase](docs/index.html) · [Asset inventory](ASSETS.md)
 
-Nine native animation states and sixteen look directions are included in the validated Pets atlas. Celebration (a draft) and sleep are two additional website-only demonstrations. They are not connected to native task events.
+Feidudu is a **Codex Pet**: a straw-hat-wearing kangaroo with a laptop and a flaming tail. The validated Pets atlas includes nine native animation states and sixteen look directions, with celebration and sleep available as two additional previews.
 
 Inspired by [Dora A Rabbit / 哆啦A兔](https://github.com/mylea1/star-rabbit-pet). The Chinese README displays all 11 GIFs and links to their storyboards. The [11-action MP4](assets/media/all-11-actions.mp4) is a silent preview.
 
