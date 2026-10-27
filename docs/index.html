@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8"><meta name="description" content="草帽火尾肥嘟嘟：9组宠物动作、16方向眼神跟随、庆祝与睡眠互动预览和安装素材。"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>肥嘟嘟 · 草帽火尾袋鼠</title>
+<link rel="stylesheet" href="style.css">
+<main>
+<nav><a href="#">FEIDUDU / 肥嘟嘟</a><span><a href="#motions">动作图鉴</a> · <a href="#storyboards">分镜</a> · <a href="#download">下载使用</a></span></nav>
+<header><span class="eyebrow">FEIDUDU · ANIMATION LAB</span><h1>陪你工作，也陪你发呆。</h1><p>草帽、电脑、一条燃烧的大尾巴。点一下，看看他的反应。</p></header>
+<section class="hero-gaze" aria-label="实时视线展示">
+<div><span class="eyebrow">HELLO, I SEE YOU</span><h2>你的指针，<br>他的目光。</h2><p>移动鼠标，看看他往哪儿看。<br>手机上可以轻触角色周围，或选择下方方向。</p><button id="gaze-toggle" aria-pressed="true">眼神跟随：开启</button><p id="gaze-status" aria-live="polite">16 个方向 · 已就绪</p></div>
+<div id="gaze-stage"><img id="gaze-pet" src="../assets/look-00.png" width="192" height="208" alt="会跟随指针看向不同方向的肥嘟嘟"><span class="orbit-note">MOVE YOUR CURSOR ↗</span></div>
+</section>
+<div id="directions" class="directions" aria-label="选择视线方向"></div>
+<section id="motions"><div class="section-title"><span class="eyebrow">01 / PLAYGROUND</span><h2>今天，想让他做什么？</h2><p>点选动作，亲自试试。左右移动距离与节奏对称。</p></div>
+<section class="card">
+<div id="stage" class="stage"><div id="traveler"><img id="pet" src="../assets/idle.webp?edges=2" width="192" height="208" alt="草帽火尾袋鼠"></div></div>
+<div class="caption"><strong id="state" aria-live="polite">空闲中</strong><span id="detail">等待下一条指令</span></div>
+<div class="controls" aria-label="切换动作">
+<button data-state="work">💻 开始工作</button><button data-state="waiting">需要我回答</button>
+<button data-state="complete">庆祝 · 草稿</button><button data-state="idle">空闲</button>
+<button data-state="left">← 向左移动</button><button data-state="right">向右移动 →</button>
+<button data-state="sleep">躺下睡觉 zzz</button>
+<button data-state="waving">挥挥手</button><button data-state="jumping">跳一下</button><button data-state="review">检查工作</button>
+<button data-state="failed">遇到问题</button>
+<button data-state="look">视线跟随 · 移动指针</button>
+</div>
+<div class="settings"><label>空闲后入睡 <select id="delay"><option value="300000">5 分钟</option><option value="60000">1 分钟</option><option value="10000">10 秒 · 测试</option></select></label><button id="background">切换深色背景</button></div>
+</section>
+</section><section class="section-title"><span class="eyebrow">02 / MOTION COLLECTION</span><h2>每一个小动作，都在这里。</h2><p>9 组原生动作，另外保留庆祝与睡眠扩展演示。点卡片在舞台播放。</p></section><div id="gallery" class="gallery"></div>
+<section id="storyboards" class="storyboards"><div class="section-title"><span class="eyebrow">03 / FRAME BY FRAME</span><h2>动作分镜与素材下载</h2><p>分镜按播放顺序排列；每个动作都可以下载 GIF 和 PNG。庆祝、睡眠是扩展演示，庆祝仍为草稿。</p></div>
+<details><summary>空闲 <span>原生 · 展开分镜与下载</span></summary><img src="../assets/storyboards/idle.png" alt="空闲动作分镜" loading="lazy"><p><a href="../assets/idle.gif" download>下载 GIF</a> · <a href="../assets/storyboards/idle.png" download>下载分镜 PNG</a></p></details>
+<details><summary>工作 <span>原生 · 展开分镜与下载</span></summary><img src="../assets/storyboards/work.png" alt="工作动作分镜" loading="lazy"><p><a href="../assets/work.gif" download>下载 GIF</a> · <a href="../assets/storyboards/work.png" download>下载分镜 PNG</a></p></details>
+<details><summary>等待回答 <span>原生 · 展开分镜与下载</span></summary><img src="../assets/storyboards/waiting.png" alt="等待回答动作分镜" loading="lazy"><p><a href="../assets/waiting.gif" download>下载 GIF</a> · <a href="../assets/storyboards/waiting.png" download>下载分镜 PNG</a></p></details>
+<details><summary>向左移动 <span>原生 · 展开分镜与下载</span></summary><img src="../assets/storyboards/walk-left.png" alt="向左移动动作分镜" loading="lazy"><p><a href="../assets/walk-left.gif" download>下载 GIF</a> · <a href="../assets/storyboards/walk-left.png" download>下载分镜 PNG</a></p></details>
+<details><summary>向右移动 <span>原生 · 展开分镜与下载</span></summary><img src="../assets/storyboards/walk-right.png" alt="向右移动动作分镜" loading="lazy"><p><a href="../assets/walk-right.gif" download>下载 GIF</a> · <a href="../assets/storyboards/walk-right.png" download>下载分镜 PNG</a></p></details>
+<details><summary>挥手 <span>原生 · 展开分镜与下载</span></summary><img src="../assets/storyboards/waving.png" alt="挥手动作分镜" loading="lazy"><p><a href="../assets/waving.gif" download>下载 GIF</a> · <a href="../assets/storyboards/waving.png" download>下载分镜 PNG</a></p></details>
+<details><summary>跳跃 <span>原生 · 展开分镜与下载</span></summary><img src="../assets/storyboards/jumping.png" alt="跳跃动作分镜" loading="lazy"><p><a href="../assets/jumping.gif" download>下载 GIF</a> · <a href="../assets/storyboards/jumping.png" download>下载分镜 PNG</a></p></details>
+<details><summary>遇到问题 <span>原生 · 展开分镜与下载</span></summary><img src="../assets/storyboards/failed.png" alt="遇到问题动作分镜" loading="lazy"><p><a href="../assets/failed.gif" download>下载 GIF</a> · <a href="../assets/storyboards/failed.png" download>下载分镜 PNG</a></p></details>
+<details><summary>检查工作 <span>原生 · 展开分镜与下载</span></summary><img src="../assets/storyboards/review.png" alt="检查工作动作分镜" loading="lazy"><p><a href="../assets/review.gif" download>下载 GIF</a> · <a href="../assets/storyboards/review.png" download>下载分镜 PNG</a></p></details>
+<details><summary>完成庆祝 <span>扩展 · 草稿 · 展开分镜与下载</span></summary><img src="../assets/storyboards/celebrate-draft.png" alt="完成庆祝动作分镜" loading="lazy"><p><a href="../assets/celebrate-draft.gif" download>下载 GIF</a> · <a href="../assets/storyboards/celebrate-draft.png" download>下载分镜 PNG</a></p></details>
+<details><summary>躺下睡觉 <span>扩展 · 展开分镜与下载</span></summary><img src="../assets/storyboards/sleep-preview.png" alt="躺下睡觉动作分镜" loading="lazy"><p><a href="../assets/sleep-preview.gif" download>下载 GIF</a> · <a href="../assets/storyboards/sleep-preview.png" download>下载分镜 PNG</a></p></details>
+</section><section class="video-section"><div class="section-title"><span class="eyebrow">04 / ALL ACTIONS</span><h2>11 组动作，一次看完。</h2><p>汇总视频按下方分镜顺序展示；视频为无声预览。</p></div><video controls preload="metadata" playsinline width="640" height="500"><source src="../assets/media/all-11-actions.mp4" type="video/mp4">你的浏览器不支持视频播放。</video><p><a href="../assets/media/all-11-actions.mp4" download>下载 11 组动作 MP4</a></p></section>
+<section class="notes"><p><b>左右完全对称</b> · 共用 8 帧步行，周期 960ms。每次从中央向左或向右移动相同距离，右侧使用镜像。</p><p><b>睡觉与等待分开</b> · 只有空闲会入睡；工作和等待回答时保持清醒。收到指令会先醒来。</p><p><b>已完成原生包</b> · 9组基础动作＋16个视线方向，已导入Pets并安装本地文件。庆祝和睡觉作为扩展演示保留，不占用原生状态。庆祝形态仍保留草稿标记。</p><p>顶部眼神展示默认跟随指针，与动作舞台独立运行。16 个视线方向已包含在原生图集中；实际客户端何时启用视线由客户端控制。这个网页不读取真实任务。</p><a href="guide.zh.md">中文说明</a> · <a href="guide.en.md">English guide</a></section>
+<section id="download" class="download"><span class="eyebrow">05 / TAKE HIM HOME</span><h2>把肥嘟嘟带回去。</h2><p>本地安装使用 ZIP；Pets 导入使用原始 PNG 图集。具体步骤见中文与英文说明。</p></section><footer>受到 <a href="https://github.com/mylea1/star-rabbit-pet" target="_blank" rel="noopener noreferrer">哆啦A兔</a> 的启发 · Feidudu animation showcase<br>Inspired by Dora A Rabbit. 本项目使用自己的角色素材与交互实现。</footer>
+<p><a href="downloads/feidudu-strawhat-mac.zip" download>下载原生安装包</a> · <a href="downloads/spritesheet.png" download>下载 Pets 导入图集</a></p>
+</main><script src="app.js"></script>
+</html>
